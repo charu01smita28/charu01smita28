@@ -1,34 +1,36 @@
 ![logo](https://github.com/Charu21/Charu21/blob/main/banner.jpeg)
 
-<h1 align="center">Hi 👋, I'm Charusmita Dhiman</h1>
-<h3 align="center">I am a seasoned backend developer turned ML/AI Engineer who has over 6 years of professional experience in developing and deploying software on contemporary cloud platforms. My expertise spans designing and debugging distributed systems with complex data, as well as creating advanced AI/ML solutions.</h3>
+<h1 align="center">Hi 👋, This is Charusmita Dhiman! </h1>
+<h3 align="justify">A seasoned backend developer turned ML/AI Engineer who has over 6 years of professional experience in developing and deploying software on contemporary cloud platforms. My expertise spans designing and debugging distributed systems with complex data, as well as creating advanced AI/ML solutions.</h3>
 
 <img align="right" alt="ai engineer" width="400" src="https://cdn.dribbble.com/users/3250190/screenshots/6078167/media/0a70c8010d8e930d5bc0c498d14dc680.gif">
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charu21&label=Profile%20views&color=0e75b6&style=flat" alt="charu21" /> </p>
-
+<br/>
 <p align="left"> Read my story here: </p>
 
- - 🌟 **Once Upon a Time**: A seasoned software developer thriving in backend (80%) and frontend (20%) development stumbled upon the magical world of AI and ML. That developer is me, and since that discovery, I've never looked back!
-
- - 🤖 **AI/ML Passion**: From developing ML pipelines with PyTorch, TensorFlow and Keras to creating multimodal applications and predictive models, I love pushing the boundaries of technology.  I have experience with libraries such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels and utilizing pretrained models through transfer learning as well as finetuning.
-
- - 💻 **Tech Mastery**: Strong development skills with microservice architecture using backend technologies like Python, Java, NodeJS, and frontend components like Angular and TypeScript.
- 
- - 🗄️ **Database Management**: Expertise in SQL and NoSQL databases including Oracle, MySQL, PostgreSQL, MongoDB, DynamoDB, Redis, and ElasticSearch. 
- 
- - 🧩 **Diverse AI Challenges**: I've tackled diverse AI challenges, including NLP, NER, and data visualization, building algorithms that transform chaotic data into meaningful insights. Whether it's predicting customer happiness, optimizing talent acquisition, or developing time series models, my solutions consistently deliver.
-
- - ☁️ **Cloud Navigator**: Navigating the arena of working with cloud resources, I've deployed scalable serverless architectures using a multitude of AWS resources. Rich experience with AWS services including S3, DynamoDB, Aurora, CFT, SQS, SageMaker and Serverless Lambdas, and working with EMR for big data processing.
-
- - 🔭 **Currently working on**: Deploying a state-of-the-art Multimodal application powered by LangChain to generate multiple-choice questions (MCQs) using Retrieval Augmented Generation (RAG) techniques with LLMs.
- [Multimodal Langchain MCQ Generator](https://github.com/Charu21/MultimodalMcq)
-
- - 📫 **How to reach me**: **charusmitadhiman28@gmail.com**
-
- - 📄 **Know about my experiences**: [https://github.com/Charu21/](https://github.com/Charu21/)
-
- - ⚡ **Fun fact** I not only predict trends and outcomes using machine learning models but can also predict your future, thanks to my interest in astrology!
-
+<ul>
+<li align = "justify"> 🌟 <b>Once Upon a Time</b>: A seasoned software developer thriving in backend (80%) and frontend (20%) development stumbled upon the magical world of AI and ML. That developer is me, and since that discovery, I've never looked back! </li>
+<br/>
+<li align = "justify"> 🤖 <b>AI/ML Passion</b>: From developing ML pipelines with PyTorch, TensorFlow and Keras to creating multimodal applications and predictive models, I have experience with libraries such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels and utilizing pretrained models through transfer learning as well as finetuning. </li>
+<br/>
+<li align = "justify"> 💻 <b>Tech Mastery</b>: Strong development skills with microservice architecture using backend technologies like Python, Java, NodeJS, and frontend components like Angular and TypeScript. </li>
+ <br/>
+<li align = "justify"> 🗄️ <b>Database Management</b>: Expertise in SQL and NoSQL databases including Oracle, MySQL, PostgreSQL, MongoDB, DynamoDB, Redis, and ElasticSearch.  </li>
+ <br/>
+<li align = "justify"> 🧩 <b>Diverse AI Challenges</b>: I've tackled diverse AI challenges, including NLP, NER, and data visualization, building algorithms that transform chaotic data into meaningful insights. Whether it's predicting customer happiness, optimizing talent acquisition, or developing time series models, my solutions consistently deliver. </li>
+<br/>
+<li align = "justify"> ☁️ <b>Cloud Navigator</b>: Navigating the arena of working with cloud resources, I've deployed scalable serverless architectures using a multitude of AWS resources. Rich experience with AWS services including S3, DynamoDB, Aurora, CFT, SQS, SageMaker and Serverless Lambdas, and working with EMR for big data processing. </li>
+<br/>
+<li align = "justify"> 🔭 <b>Currently working on</b>: Deploying a state-of-the-art Multimodal application powered by LangChain to generate multiple-choice questions (MCQs) using Retrieval Augmented Generation (RAG) techniques with LLMs. [Multimodal Langchain MCQ Generator](https://github.com/Charu21/MultimodalMcq)  </li>
+<br/>
+<li align = "justify"> 📫 <b>How to reach me</b>: </b>charusmitadhiman28@gmail.com</b>  </li>
+<br/>
+<li align = "justify"> 📄 <b>Know about my experiences</b>: [https://github.com/Charu21/](https://github.com/Charu21/)  </li>
+<br/>
+<li align = "justify"> ⚡ <b>Fun fact</b> I not only predict trends and outcomes using machine learning models but can also predict your future, thanks to my interest in astrology!  </li>
+<br/>
+</ol>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/charusmitadhiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charusmitadhiman" height="30" width="40" /></a>
