@@ -1,3 +1,5 @@
+![logo](https://github.com/Charu21/Charu21/blob/main/banner.jpeg)
+
 <h1 align="center">Hi 👋, I'm Charusmita Dhiman</h1>
 <h3 align="center">I am a seasoned backend developer turned ML/AI Engineer who has over 6 years of professional experience in developing and deploying software on contemporary cloud platforms. My expertise spans designing and debugging distributed systems with complex data, as well as creating advanced AI/ML solutions.</h3>
 
