@@ -10,14 +10,14 @@
 <p align="left"> Read my story here: </p>
 
 <ul>
-<li align = "justify"> 🌟 <b>Once Upon a Time</b>: A seasoned software developer thriving in backend (80%) and frontend (20%) development stumbled upon the magical world of AI and ML. That developer is me, and since that discovery, I've never looked back! </li>
+<li align = "justify"> 🌟 <b>Once Upon a Time</b>: A seasoned software developer thriving in backend (80%) and frontend (20%) development stumbled upon the magical world of AI and ML. That developer is me, and since that discovery, I've not yet looked back! </li>
 <br/>
 <li align = "justify"> 🤖 <b>AI/ML Passion</b>: From developing ML pipelines with PyTorch, TensorFlow and Keras to creating multimodal applications and predictive models, I have experience with libraries such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels and utilizing pretrained models through transfer learning as well as finetuning. </li>
 <br/> 
-<li align = "justify"> 💡 <b>Noteworthy AI Skills</b>: Skilled in developing Multimodal applications using RAG techniques and Large Language Models (LLMs) with LangChain, LlamaIndex. Latest GenAI skills and fine-tuning LLMs to improve their performance in specific tasks. </li>
+<li align = "justify"> ⚡ <b>State-of-the-art AI Skills</b>: Skilled in developing Multimodal applications using RAG techniques and Large Language Models (LLMs) with LangChain, LlamaIndex. Latest GenAI skills and fine-tuning LLMs to improve their performance in specific tasks. </li>
 <br/>
 <li align = "justify"> 💻 <b>Tech Mastery</b>: Excellent backend development experience working with monolith as well as microservice architecture with
-languages like Python, JAVA, NodeJS and front end components like Angular and TypeScript. </li>
+languages like Python, JAVA, NodeJS and front end components like Angular and TypeScript building both REST APIs and GraphQL endpoints. </li>
  <br/>
 <li align = "justify"> 🗄️ <b>Database Management</b>: Expertise in SQL and NoSQL databases including Oracle, MySQL, PostgreSQL, MongoDB, DynamoDB, Redis, and ElasticSearch.  </li>
  <br/>
@@ -29,9 +29,9 @@ languages like Python, JAVA, NodeJS and front end components like Angular and Ty
 <br/>
 <li align = "justify"> 📫 <b>How to reach me</b>: </b>charusmitadhiman28@gmail.com</b>  </li>
 <br/>
-<li align = "justify"> 📄 <b>Know about my experiences</b>: [https://github.com/Charu21/](https://github.com/Charu21/)  </li>
+<li align = "justify"> 📄 <b>Know about my experiences</b>: https://www.linkedin.com/in/charusmitadhiman/ </li>
 <br/>
-<li align = "justify"> ⚡ <b>Fun fact</b> I not only predict trends and outcomes using machine learning models but can also predict your future, thanks to my interest in astrology!  </li>
+<li align = "justify"> 🎉 <b>Fun fact</b> I not only predict trends and outcomes using machine learning models but can also predict your future, thanks to my interest in astrology!  </li>
 <br/>
 </ol>
 <h3 align="left">Connect with me:</h3>
