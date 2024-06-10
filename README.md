@@ -13,8 +13,11 @@
 <li align = "justify"> 🌟 <b>Once Upon a Time</b>: A seasoned software developer thriving in backend (80%) and frontend (20%) development stumbled upon the magical world of AI and ML. That developer is me, and since that discovery, I've never looked back! </li>
 <br/>
 <li align = "justify"> 🤖 <b>AI/ML Passion</b>: From developing ML pipelines with PyTorch, TensorFlow and Keras to creating multimodal applications and predictive models, I have experience with libraries such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels and utilizing pretrained models through transfer learning as well as finetuning. </li>
+<br/> 
+<li align = "justify"> 💡 <b>Noteworthy AI Skills</b>: Skilled in developing Multimodal applications using RAG techniques and Large Language Models (LLMs) with LangChain, LlamaIndex. Latest GenAI skills and fine-tuning LLMs to improve their performance in specific tasks. </li>
 <br/>
-<li align = "justify"> 💻 <b>Tech Mastery</b>: Strong development skills with microservice architecture using backend technologies like Python, Java, NodeJS, and frontend components like Angular and TypeScript. </li>
+<li align = "justify"> 💻 <b>Tech Mastery</b>: Excellent backend development experience working with monolith as well as microservice architecture with
+languages like Python, JAVA, NodeJS and front end components like Angular and TypeScript. </li>
  <br/>
 <li align = "justify"> 🗄️ <b>Database Management</b>: Expertise in SQL and NoSQL databases including Oracle, MySQL, PostgreSQL, MongoDB, DynamoDB, Redis, and ElasticSearch.  </li>
  <br/>
