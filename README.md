@@ -11,7 +11,7 @@
 <ul>
 <li align = "justify"> 🌟 <b>Background</b>: A seasoned software developer thriving in backend (80%) and frontend (20%) development with excellent development experience working with monolith as well as microservice architecture with languages like Python, JAVA, NodeJS and front end components like Angular building both REST APIs and GraphQL endpoints.</li>
 <br/>
- <li align = "justify"> 🗄️ <b>Database Management</b>: Expertise in SQL Oracle, MySQL, PostgreSQL, and NoSQL or non relational databases like MongoDB, DynamoDB, Redis and strong experience with ELK stack,  ElasticSearch, Logstash and Kibana.  </li>
+ <li align = "justify"> 🗄️ <b>Database Management</b>: Exceptional SQL and PL/SQL querying skills and strong experience with a variety of relational databases like Oracle, MySQL, PostgreSQL, and NoSQL or non relational databases like MongoDB, DynamoDB, Redis and strong experience with ELK stack,  ElasticSearch, Logstash and Kibana.  </li>
 <br/>
  <li align = "justify"> 🤖 <b>AI/ML Passion</b>: From developing ML pipelines with PyTorch, TensorFlow and Keras to creating multimodal applications and predictive models, I have experience with libraries such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels and utilizing pretrained models through transfer learning as well as finetuning. </li>
 <br/> 
