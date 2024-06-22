@@ -1,7 +1,7 @@
 ![logo](https://github.com/Charu21/Charu21/blob/main/banner.jpeg)
 
 <h1 align="center">Hi 👋, This is Charusmita Dhiman! </h1>
-<h3 align="justify">A seasoned backend developer with a passion for everything "Data" who has over 6 years of professional experience in developing and deploying software on contemporary cloud platforms. My expertise spans designing, debugging and deploying distributed, scalable systems with complex data and backends, as well as creating advanced AI/ML solutions.</h3>
+<h3 align="justify">A seasoned Backend Developer with a passion for everything "Data" who has over 6 years of professional experience in developing microservices and deploying software on contemporary cloud platforms. My expertise spans designing, debugging and deploying distributed, scalable systems with complex data and backends, as well as creating advanced AI/ML solutions.</h3>
 
 <img align="right" alt="ai engineer" width="400" src="https://cdn.dribbble.com/users/3250190/screenshots/6078167/media/0a70c8010d8e930d5bc0c498d14dc680.gif">
 <br/>
@@ -9,15 +9,15 @@
 <br/>
 <p align="left"> Read my story here: </p>
 <ul>
-<li align = "justify"> 🌟 <b>Background</b>: A seasoned software developer thriving in backend (80%) and frontend (20%) development with excellent development experience working with monolith as well as microservice architecture with languages like Python, JAVA, NodeJS and front end components like Angular building both REST APIs and GraphQL endpoints.</li>
+<li align = "justify"> 🌟 <b>Background</b>: A seasoned software developer thriving in <b>backend</b> (80%) and frontend (20%) development with excellent development experience working with <b>monolith</b> as well as <b>Microservice</b> architecture with languages like <b>Python, JAVA, NodeJS</b> and front end components like Angular building both <b>REST APIs and GraphQL</b> endpoints.</li>
 <br/>
- <li align = "justify"> ☁️ <b>Cloud Navigator</b>: Navigating the arena of working with cloud resources, I've deployed scalable serverless architectures using a multitude of AWS resources. Rich experience with AWS services including S3, DynamoDB, Aurora, CFT, SQS, SageMaker and Serverless Lambdas, and worked with EMR for big data processing by developing Spark jobs. </li>
+ <li align = "justify"> ☁️ <b>Cloud Navigator</b>: Navigating the arena of working with cloud resources, I've deployed scalable serverless architectures using a multitude of <b>AWS resources.</b> Rich experience with AWS services including <b>S3, DynamoDB, Aurora, CFT, SQS, SageMaker and Serverless Lambdas</b>, and worked with <b>EMR</b> for big data processing by developing Spark jobs. </li>
  <br/>
- <li align = "justify"> 🗄️ <b>Database Management</b>: Exceptional SQL and PL/SQL querying skills and strong experience with a variety of relational databases like Oracle, MySQL, PostgreSQL, and NoSQL or non relational databases like MongoDB, DynamoDB, Redis and strong experience with ELK stack,  ElasticSearch, Logstash and Kibana.  </li>
+ <li align = "justify"> 🗄️ <b>Database Management</b>: <b>Exceptional SQL and PL/SQL </b>querying skills and strong experience with a variety of relational databases like <b>Oracle, MySQL, PostgreSQL, and NoSQL</b> or non relational databases like </b>MongoDB, DynamoDB, Redis</b> and strong experience with ELK stack,  <b>ElasticSearch</b>, Logstash and Kibana.  </li>
 <br/>
- <li align = "justify"> 🤖 <b>AI/ML Passion</b>: From developing ML pipelines with PyTorch, TensorFlow and Keras to creating multimodal applications and predictive models, I have experience with libraries such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels and utilizing pretrained models through transfer learning as well as finetuning. </li>
+ <li align = "justify"> 🤖 <b>AI/ML Passion</b>: From developing ML pipelines with <b>PyTorch, TensorFlow and Keras</b> to creating multimodal applications and predictive models, I have experience with libraries such as <b>Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels</b> and utilizing pretrained models through transfer learning as well as <b>finetuning.</b> </li>
 <br/> 
-<li align = "justify"> ⚡ <b>State-of-the-art AI Skills</b>: Skilled in developing Multimodal applications using RAG techniques and Large Language Models (LLMs) with LangChain, LlamaIndex. Latest GenAI skills and fine-tuning LLMs to improve their performance in specific tasks. </li>
+<li align = "justify"> ⚡ <b>State-of-the-art AI Skills</b>: Skilled in developing <b>Multimodal</b> applications using <b>RAG</b> techniques and <b>Large Language Models (LLMs) with LangChain, LlamaIndex.</b> Latest GenAI skills and fine-tuning LLMs to improve their performance in specific tasks. </li>
  <br/>
  <li align = "justify"> 🧩 <b>Diverse AI Challenges</b>: I've tackled diverse AI challenges, including NLP, NER, and data visualization, building algorithms that transform chaotic data into meaningful insights. Whether it's predicting customer happiness, optimizing talent acquisition, or developing time series models, my solutions consistently deliver. </li>
 <br/>
