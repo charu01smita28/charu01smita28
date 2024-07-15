@@ -21,7 +21,7 @@
  <br/>
  <li align = "justify"> 🧩 <b>Diverse AI Challenges</b>: I've tackled diverse AI challenges, including NLP, NER, and data visualization, building algorithms that transform chaotic data into meaningful insights. Whether it's predicting customer happiness, optimizing talent acquisition, or developing time series models, my solutions consistently deliver. </li>
 <br/>
-<li align = "justify"> 🔭 <b>Currently working on</b>: Deploying a state-of-the-art Multimodal application powered by LangChain to generate multiple-choice questions (MCQs) using Retrieval Augmented Generation (RAG) techniques with LLMs. [Multimodal Langchain MCQ Generator](https://github.com/Charu21/MultimodalMcq)  </li>
+<li align = "justify"> 🔭 <b>Currently working on</b>: Developing a highly available and scalable real-time Advanced Semantic Product Search microservice using Python, FastAPI and Elasticsearch. Utilized Sentence-BERT embeddings for semantic understanding and implemented clustering and replication strategies for Elasticsearch [Advanced Semantic Product Search](https://github.com/Charu21/fastapi-elasticsearch-semantic-search/tree/master)  </li>
 <br/>
 <li align = "justify"> 📫 <b>How to reach me</b>: </b>charusmitadhiman28@gmail.com</b>  </li>
 <br/>
