@@ -1,7 +1,7 @@
 ![logo](https://github.com/Charu21/Charu21/blob/main/banner.jpeg)
 
 <h1 align="center">Hi 👋, This is Charusmita Dhiman! </h1>
-<h3 align="justify">A seasoned Backend Developer with a passion for everything "Data" who has over 6 years of professional experience in developing microservices and deploying software on contemporary cloud platforms. My expertise spans designing, debugging and deploying distributed, scalable systems with complex data and backends, as well as creating advanced AI/ML solutions.</h3>
+<h3 align="justify">A seasoned Backend Developer with a passion for everything "Data" who has over 6 years of professional experience in developing scalable and resilient microservices and deploying software on contemporary cloud platforms. My expertise spans designing, debugging and deploying distributed, scalable systems with complex data and backends, as well as creating advanced AI/ML solutions.</h3>
 
 <img align="right" alt="ai engineer" width="400" src="https://cdn.dribbble.com/users/3250190/screenshots/6078167/media/0a70c8010d8e930d5bc0c498d14dc680.gif">
 <br/>
