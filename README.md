@@ -21,7 +21,7 @@
  <br/>
  <li align = "justify"> 🧩 <b>Diverse AI Challenges</b>: I've tackled diverse AI challenges, including NLP, NER, and data visualization, building algorithms that transform chaotic data into meaningful insights. Whether it's predicting customer happiness, optimizing talent acquisition, or developing time series models, my solutions consistently deliver. </li>
 <br/>
-<li align = "justify"> 🔭 <b>Currently working on</b>: Developing an LLM AI Agent with RAG that leverages the capabilities of large language models to extract answers from large PDF documents and return json results. It is built using OpenAI's language models and other technologies such as FastAPI, LangChain, and ChromaDB for efficient processing and retrieval. [PDF Chat Agent](https://github.com/charu01smita28/pdf-chat-agent.git)  <i>Kindly send a DM to get access to the private repo.</i> </li>
+<li align = "justify"> 🔭 <b>Currently working on</b>: Developing an LLM AI Agent with RAG that leverages the capabilities of large language models to extract answers from large PDF documents and return json results. It is built using OpenAI's language models and other technologies such as FastAPI, LangChain, and ChromaDB for efficient processing and retrieval. [PDF Chat Agent](https://github.com/charu01smita28/pdf-chat-agent.git) </li>
 <br/>
 <li align = "justify"> 📫 <b>How to reach me</b>: </b>charusmitadhiman28@gmail.com</b>  </li>
 <br/>
