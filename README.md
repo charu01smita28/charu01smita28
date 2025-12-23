@@ -1,7 +1,9 @@
 ![logo](https://github.com/Charu21/Charu21/blob/main/banner.jpeg)
 
 <h1 align="center">Hi 👋, This is Charusmita Dhiman! </h1>
-<h3 align="justify">A seasoned Backend Developer with a passion for everything "AI" and "DATA" who has over 6 years of professional experience in developing scalable and resilient microservices and deploying software on contemporary cloud platforms. My expertise spans designing, debugging and deploying distributed, scalable systems with complex data and backends, as well as creating advanced AI/ML solutions.</h3>
+<h3 align="justify">AI/ML Engineer & LLM Systems Architect with 8+ years of software engineering experience, building production-grade AI and LLM systems on cloud-native, distributed architectures.
+I design retrieval-driven, evaluation-first LLM systems that reason correctly, adapt to users, and scale reliably in production.
+</h3>
 
 <img align="right" alt="ai engineer" width="400" src="https://cdn.dribbble.com/users/3250190/screenshots/6078167/media/0a70c8010d8e930d5bc0c498d14dc680.gif">
 <br/>
@@ -9,27 +11,53 @@
 <br/>
 <p align="left"> Read my story here: </p>
 <ul>
-<li align = "justify"> 🌟 <b>Background</b>: A seasoned software developer thriving in <b>backend</b> (80%) and frontend (20%) development with excellent development experience working with <b>monolith</b> as well as <b>Microservice</b> architecture with languages like <b>Python, JAVA, NodeJS</b> and front end components like Angular building both <b>REST APIs and GraphQL</b> endpoints.</li>
-<br/>
- <li align = "justify"> ☁️ <b>Cloud Navigator</b>: Navigating the arena of working with cloud resources, I've deployed scalable serverless architectures using a multitude of <b>AWS resources.</b> Rich experience with AWS services including <b>S3, DynamoDB, Aurora, CFT, SQS, SageMaker and Serverless Lambdas</b>, and worked with <b>EMR</b> for big data processing by developing Spark jobs. </li>
- <br/>
- <li align = "justify"> 🗄️ <b>Database Management</b>: <b>Exceptional SQL and PL/SQL </b>querying skills and strong experience with a variety of relational databases like <b>Oracle, MySQL, PostgreSQL, and NoSQL</b> or non relational databases like </b>MongoDB, DynamoDB, Redis</b> and strong experience with ELK stack,  <b>ElasticSearch</b>, Logstash and Kibana.  </li>
-<br/>
- <li align = "justify"> 🤖 <b>AI/ML Passion</b>: From developing ML pipelines with <b>PyTorch, TensorFlow and Keras</b> to creating multimodal applications and predictive models, I have experience with libraries such as <b>Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels</b> and utilizing pretrained models through transfer learning as well as <b>finetuning.</b> </li>
-<br/> 
-<li align = "justify"> ⚡ <b>State-of-the-art AI Skills</b>: Skilled in developing <b>Multimodal</b> applications using <b>RAG</b> techniques and <b>Large Language Models (LLMs) with LangChain, LlamaIndex.</b> Latest GenAI skills and fine-tuning LLMs to improve their performance in specific tasks. </li>
- <br/>
- <li align = "justify"> 🧩 <b>Diverse AI Challenges</b>: I've tackled diverse AI challenges, including NLP, NER, and data visualization, building algorithms that transform chaotic data into meaningful insights. Whether it's predicting customer happiness, optimizing talent acquisition, or developing time series models, my solutions consistently deliver. </li>
-<br/>
-<li align = "justify"> 🔭 <b>Currently working on</b>: Knowledge Graphs and Graph based RAG </li>
-<br/>
-<li align = "justify"> 📫 <b>How to reach me</b>: </b>charusmitadhiman28@gmail.com</b>  </li>
-<br/>
-<li align = "justify"> 📄 <b>Know about my experiences</b>: https://www.linkedin.com/in/charusmitadhiman/ </li>
-<br/>
-<li align = "justify"> 🎉 <b>Fun fact</b> I not only predict trends and outcomes using machine learning models but can also predict your future, thanks to my interest in astrology!  </li>
-<br/>
-</ol>
+
+<li align="justify">
+🧠 <b>LLM Systems & Reasoning</b>: Design and ship advanced RAG architectures (Self-RAG, Hierarchical RAG, Adaptive RAG), agentic LLM workflows, and retrieval-driven multi-stage reasoning systems with explicit correctness and evaluation layers.
+</li><br/>
+
+<li align="justify">
+📊 <b>Evaluation & User-Adaptive AI</b>: Build automated RAG evaluation and benchmarking pipelines (LLM-as-judge) and lead large-scale power-user query analysis to drive complexity-aware routing, progressive “Learn More” explanations, and persona-specific response depth.
+</li><br/>
+
+<li align="justify">
+📄 <b>Document Intelligence & Scientific QA</b>: Develop end-to-end document intelligence engines for scientific PDFs, including structured extraction, citation-grounded QA, long-context retrieval, author deduplication, and replication-aware validation logic.
+</li><br/>
+
+<li align="justify">
+⚙️ <b>Backend & Distributed Systems</b>: 8+ years building scalable backend systems across monoliths and microservices using <b>Python, Java, Node.js</b>, designing reliable APIs (REST & GraphQL), async pipelines, and distributed workflows.
+</li><br/>
+
+<li align="justify">
+☁️ <b>Cloud-Native Infrastructure</b>: Deploy and operate LLM services using <b>AWS (Lambda, S3, DynamoDB, Aurora, SQS)</b> and <b>Vercel</b>, with a focus on latency, reliability, observability, and maintainability.
+</li><br/>
+
+<li align="justify">
+🗄️ <b>Data & Search Systems</b>: Engineer semantic and hybrid search systems using <b>Elasticsearch (BM25 + ranking signals)</b> and vector databases (<b>Qdrant, FAISS, Chroma</b>), backed by PostgreSQL/Supabase-based analytics pipelines.
+</li><br/>
+
+<li align="justify">
+🤖 <b>Product-Driven AI</b>: Build Custom GPT and LLM product features including tool-use flows, structured prompts, feedback capture (likes/dislikes, events), and iterative improvement based on real user behavior.
+</li><br/>
+
+<li align="justify">
+🔭 <b>Currently exploring</b>: Graph-based RAG, knowledge graphs, and reasoning-heavy LLM systems.
+</li><br/>
+
+<li align="justify">
+📫 <b>Reach me at</b>: <b>charusmitadhiman28@gmail.com</b>
+</li><br/>
+
+<li align="justify">
+📄 <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/charusmitadhiman/">charusmitadhiman</a>
+</li><br/>
+
+<li align="justify">
+🎉 <b>Fun fact</b>: I build systems that predict outcomes from data and I’m equally fascinated by astrology as a structured reasoning domain.
+</li><br/>
+
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/charusmitadhiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charusmitadhiman" height="30" width="40" /></a>
