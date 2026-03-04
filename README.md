@@ -195,6 +195,8 @@
 
 ## 🏆 Accolades
 
+*Less about titles, more about the dedicated effort it took to earn them.*
+
 - 🎯 **Google Certified TensorFlow Developer** — scored 100%
 - 🎓 **President's Honor List** — Post Graduate Certificate, Seneca College of Applied Arts and Technology, Toronto, Canada
 - 🥇 **Gold Medalist** — B.E. Computer Engineering, Veer Narmad South Gujarat University, Gujarat, India
