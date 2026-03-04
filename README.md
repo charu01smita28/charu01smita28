@@ -1,47 +1,107 @@
 ![logo](https://github.com/Charu21/Charu21/blob/main/banner.jpeg)
 
 <h1 align="center">Hi 👋, This is Charusmita Dhiman! </h1>
-<h3 align="justify">AI/ML Engineer & LLM Systems Architect with 8+ years of software engineering experience, building production-grade AI and LLM systems on cloud-native, distributed architectures.
-I design retrieval-driven, evaluation-first LLM systems that reason correctly, adapt to users, and scale reliably in production.
-</h3>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Senior+AI+Engineer+%7C+LLM+Systems+Architect;Production+AI+that+reasons%2C+not+just+generates;Multi-agent+pipelines+%7C+Retrieval+systems+%7C+Eval+frameworks" alt="Typing SVG" /></a>
+</p>
 
 <img align="right" alt="ai engineer" width="400" src="https://cdn.dribbble.com/users/3250190/screenshots/6078167/media/0a70c8010d8e930d5bc0c498d14dc680.gif">
-<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charu21&label=Profile%20views&color=0e75b6&style=flat" alt="charu21" /> </p>
-<br/>
-<p align="left"> Read my story here: </p>
+
+<h3 align="justify">8+ years of software engineering — 5 years building backends and full-stack systems in Python, Java, Node.js, then a hard pivot into AI/ML. Once I saw the power of LLMs and AI, I was simply obsessed — no looking back. Now 3 years deep in production LLM systems — I build multi-agent pipelines that retrieve with precision, evaluate themselves, fail gracefully, and don't bankrupt the company on API calls. If a system can't show you why it gave that answer, it shouldn't be in production.</h3>
 <ul>
 
 <li align="justify">
-🧠 <b>LLM Systems & Reasoning</b>: Design and ship advanced RAG architectures (Self-RAG, Hierarchical RAG, Adaptive RAG), agentic LLM workflows, and retrieval-driven multi-stage reasoning systems with explicit correctness and evaluation layers.
+🧠 <b>LLM Systems & Reasoning</b>: Designed and shipped advanced RAG architectures (Self-RAG, Hierarchical RAG, Adaptive RAG), multi-agent LLM pipelines, and retrieval-driven multi-stage reasoning systems with explicit correctness and evaluation layers.
+<br/><br/>
+<img src="https://img.shields.io/badge/Self--RAG-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Adaptive_RAG-A78BFA?style=flat-square" />
+<img src="https://img.shields.io/badge/Multi--Agent_Pipelines-4ECDC4?style=flat-square" />
+<img src="https://img.shields.io/badge/GPT_Models-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/DSPy-FF6B6B?style=flat-square" />
 </li><br/>
 
 <li align="justify">
-📊 <b>Evaluation & User-Adaptive AI</b>: Build automated RAG evaluation and benchmarking pipelines (LLM-as-judge) and lead large-scale power-user query analysis to drive complexity-aware routing, progressive “Learn More” explanations, and persona-specific response depth.
+📊 <b>Evaluation & User-Adaptive AI</b>: Built automated RAG evaluation and benchmarking pipelines (RAGAS, LLM-as-judge, embedding similarity) and led large-scale power-user query analysis (40K+ queries) to drive complexity-aware routing, persona-specific response depth, and product strategy.
+<br/><br/>
+<img src="https://img.shields.io/badge/RAGAS-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM--as--Judge-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/40K+_Queries_Analyzed-00C853?style=flat-square" />
 </li><br/>
 
 <li align="justify">
-📄 <b>Document Intelligence & Scientific QA</b>: Develop end-to-end document intelligence engines for scientific PDFs, including structured extraction, citation-grounded QA, long-context retrieval, author deduplication, and replication-aware validation logic.
+📄 <b>Document Intelligence & Multimodal QA</b>: Developed end-to-end multimodal document intelligence systems orchestrating layout analysis, figure extraction, table parsing, and vision models — with tiered query routing, adaptive retrieval, and session-aware APIs.
+<br/><br/>
+<img src="https://img.shields.io/badge/GROBID-4ECDC4?style=flat-square" />
+<img src="https://img.shields.io/badge/DocLayout--YOLO-FFD93D?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/GPT--4o_Vision-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square" />
+<img src="https://img.shields.io/badge/Qwen-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/DeepSeek-0A6DC2?style=flat-square" />
+<img src="https://img.shields.io/badge/Hybrid_Classifier-A78BFA?style=flat-square" />
 </li><br/>
 
 <li align="justify">
-⚙️ <b>Backend & Distributed Systems</b>: 8+ years building scalable backend systems across monoliths and microservices using <b>Python, Java, Node.js</b>, designing reliable APIs (REST & GraphQL), async pipelines, and distributed workflows.
+⚙️ <b>Backend & Distributed Systems</b>: 8+ years of building scalable backend systems across monoliths and microservices using <b>Python, Java, Node.js</b>, designed reliable APIs (REST & GraphQL), async pipelines, and distributed workflows.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" />
 </li><br/>
 
 <li align="justify">
-☁️ <b>Cloud-Native Infrastructure</b>: Deploy and operate LLM services using <b>AWS (Lambda, S3, DynamoDB, Aurora, SQS)</b> and <b>Vercel</b>, with a focus on latency, reliability, observability, and maintainability.
+☁️ <b>Cloud-Native Infrastructure</b>: Deployed and operated LLM services using <b>AWS (Lambda, S3, DynamoDB, Aurora, SQS)</b>, <b>Docker</b>, <b>Kubernetes</b>, and <b>Vercel</b>, with a focus on latency, reliability, observability, and maintainability.
+<br/><br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
 </li><br/>
 
 <li align="justify">
-🗄️ <b>Data & Search Systems</b>: Engineer semantic and hybrid search systems using <b>Elasticsearch (BM25 + ranking signals)</b> and vector databases (<b>Qdrant, FAISS, Chroma</b>), backed by PostgreSQL/Supabase-based analytics pipelines.
+🗄️ <b>Data & Search Systems</b>: Engineered hybrid search systems (BM25 + dense retrieval + cross-encoder reranking) using <b>Elasticsearch</b> and vector databases (<b>Qdrant, FAISS, Chroma</b>), backed by <b>PostgreSQL, DuckDB, Supabase</b>-based analytics pipelines.
+<br/><br/>
+<img src="https://img.shields.io/badge/BM25-4ECDC4?style=flat-square" />
+<img src="https://img.shields.io/badge/Dense_Retrieval-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Cross--Encoder_Reranking-A78BFA?style=flat-square" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
 </li><br/>
 
 <li align="justify">
-🤖 <b>Product-Driven AI</b>: Build Custom GPT and LLM product features including tool-use flows, structured prompts, feedback capture (likes/dislikes, events), and iterative improvement based on real user behavior.
+🤖 <b>Product-Driven AI</b>: Built agentic AI features including tool-use flows, function calling, structured prompts, MCP servers, feedback capture, and iterative improvement based on real user behavior.
+<br/><br/>
+<img src="https://img.shields.io/badge/Tool--Use-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Function_Calling-4ECDC4?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP_Servers-1DB954?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic_AI-FF6B6B?style=flat-square" />
 </li><br/>
 
 <li align="justify">
-🔭 <b>Currently exploring</b>: Graph-based RAG, knowledge graphs, and reasoning-heavy LLM systems.
+💸 <b>LLM Cost Engineering</b>: Designed hybrid classification pipelines, semantic caching, tiered model routing, and confidence-based LLM selection — achieved up to 10x cost reduction on production workloads.
+<br/><br/>
+<img src="https://img.shields.io/badge/Semantic_Caching-00C9A7?style=flat-square" />
+<img src="https://img.shields.io/badge/Tiered_Routing-FFD93D?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/10x_Cost_Reduction-00C853?style=flat-square" />
+</li><br/>
+
+<li align="justify">
+🎨 <b>Frontend & Full-Stack</b>: Built production frontends using <b>React, Next.js, TypeScript</b>, and <b>shadcn/ui</b> — including a complete hackathon project (RepoScout) built end-to-end.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square" />
+</li><br/>
+
+<li align="justify">
+🚧 <b>Currently building</b>: <b>Unravel AI</b> — Agentic retrieval, eval-driven intelligence, hybrid search, multi-stage reasoning. Stay tuned.
+<br/><br/>
+<img src="https://img.shields.io/badge/Coming_Soon-6C63FF?style=flat-square" />
 </li><br/>
 
 <li align="justify">
@@ -53,16 +113,193 @@ I design retrieval-driven, evaluation-first LLM systems that reason correctly, a
 </li><br/>
 
 <li align="justify">
-🎉 <b>Fun fact</b>: I build systems that predict outcomes from data and I’m equally fascinated by astrology as a structured reasoning domain.
+🎉 <b>Fun fact</b>: I build systems that predict outcomes from data and I'm equally fascinated by astrology as a structured reasoning domain.
 </li><br/>
 
 </ul>
+
+---
+
+## 🔥 What I shipped
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🧠 Multi-Agent Pipelines**
+<br/><sub>10+ LLM modules · parallel execution · SSE streaming · dual-provider failover · Self-RAG</sub>
+<br/><sub><code>↳ 60% latency reduction · 30% fewer LLM calls</code></sub>
+
+</td>
+<td align="center" width="33%">
+
+**📄 Multimodal Doc Intel**
+<br/><sub>Layout analysis · vision models · tiered query routing · session-aware APIs · adaptive retrieval</sub>
+<br/><sub><code>↳ 15% retrieval precision improvement</code></sub>
+
+</td>
+<td align="center" width="33%">
+
+**📊 RAG Eval Engines**
+<br/><sub>RAGAS · LLM-as-judge · embedding similarity · chunking diagnostics · faithfulness-preserving optimization</sub>
+<br/><sub><code>↳ 6.3% context recall gain, 0% faithfulness loss</code></sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**💸 Cost Optimization**
+<br/><sub>Hybrid DeBERTa + LLM · semantic caching · tiered routing · 275 intent labels</sub>
+<br/><sub><code>↳ 10x cost reduction ($90 → $9/month)</code></sub>
+
+</td>
+<td align="center" width="33%">
+
+**🔬 User Intelligence**
+<br/><sub>40K+ queries · persona analysis · complexity-aware routing · product-driving insights</sub>
+
+</td>
+<td align="center" width="33%">
+
+**🔧 Production Tooling**
+<br/><sub>Custom MCP servers · K8s tunneling · SQL safety · resource lifecycle management</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Side Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🔍 RepoScout — AI-Powered Open Source Intelligence Engine**
+<br/><sub>Agentic RAG system querying 85K+ Python packages using 5 Mistral AI models with function calling, semantic search (Qdrant), and real-time PyPI data. Built solo for <b>Mistral Worldwide Hackathon 2026</b>.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+<img src="https://img.shields.io/badge/Function_Calling-4ECDC4?style=flat-square" />
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<br/><br/>
+▶️ [Watch Demo](https://youtube.com) <!-- Replace with actual YouTube link -->
+
+</td>
+<td width="50%">
+
+**🧠 Unravel AI — AI/ML Developer Intelligence Platform**
+<br/><sub>Agentic retrieval · eval-driven intelligence · hybrid search · multi-stage reasoning. <b>Coming soon.</b></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Coming_Soon-6C63FF?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Accolades
+
+- 🎯 **Google Certified TensorFlow Developer** — scored 100%
+- 🎓 **President's Honor List** — Graduate Certificate, Seneca College of Applied Arts and Technology, Toronto, Canada
+- 🥇 **Gold Medalist** — B.E. Computer Engineering, Veer Narmad South Gujarat University, Gujarat, India
+
+---
+
+## 🧭 Where my head is at
+
+I'm deep in the **agentic AI** wave right now:
+
+- 🤖 **Multi-agent systems** — orchestration patterns, handoff protocols, memory architectures
+- 🔧 **Tool-use & function calling** — making agents actually do things reliably
+- 🕸️ **Graph RAG & knowledge graphs** — structured reasoning over unstructured data
+- 🧩 **Claude Agent SDK & MCP** — building with the next generation of agent infrastructure
+- 🧠 **Reasoning-heavy architectures** — systems that think, not just pattern-match
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/charusmitadhiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charusmitadhiman" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+<h3 align="left">Tech Stack:</h3>
+
+**🤖 LLM & AI**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-6C63FF?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0A6DC2?style=for-the-badge)
+![Qwen](https://img.shields.io/badge/Qwen-7C3AED?style=for-the-badge)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge)
+
+**🔍 Retrieval & Eval**
+
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-FF6B6B?style=for-the-badge)
+![BM25](https://img.shields.io/badge/BM25-4ECDC4?style=for-the-badge)
+![Cross Encoder](https://img.shields.io/badge/Cross_Encoder-A78BFA?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+![LanceDB](https://img.shields.io/badge/LanceDB-FFA500?style=for-the-badge)
+![Arize](https://img.shields.io/badge/Arize-FF6B35?style=for-the-badge)
+![Langfuse](https://img.shields.io/badge/Langfuse-4ECDC4?style=for-the-badge)
+
+**⚙️ Backend & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+**☁️ Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white)
+
+**🎨 Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**🔧 Dev Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+<div align="center">
+
+<b>Passionate about building multi-agent LLM systems that retrieve with precision, evaluate themselves, fail gracefully, and don't bankrupt the company on API calls.</b>
+
+</div>
