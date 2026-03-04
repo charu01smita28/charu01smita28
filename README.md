@@ -105,15 +105,7 @@
 </li><br/>
 
 <li align="justify">
-📫 <b>Reach me at</b>: <b>charusmitadhiman28@gmail.com</b>
-</li><br/>
-
-<li align="justify">
-📄 <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/charusmitadhiman/">charusmitadhiman</a>
-</li><br/>
-
-<li align="justify">
-🎉 <b>Fun fact</b>: I build systems that predict outcomes from data and I'm equally fascinated by astrology as a structured reasoning domain.
+📫 <b>Reach me</b>: <b>charusmitadhiman28@gmail.com</b> · <a href="https://www.linkedin.com/in/charusmitadhiman/">LinkedIn</a>
 </li><br/>
 
 </ul>
@@ -190,7 +182,7 @@
 </td>
 <td width="50%">
 
-**🧠 Unravel AI — AI/ML Developer Intelligence Platform**
+**🧠 Unravel AI — Developer Intelligence Platform**
 <br/><sub>Agentic retrieval · eval-driven intelligence · hybrid search · multi-stage reasoning. <b>Coming soon.</b></sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Coming_Soon-6C63FF?style=flat-square" />
@@ -204,7 +196,7 @@
 ## 🏆 Accolades
 
 - 🎯 **Google Certified TensorFlow Developer** — scored 100%
-- 🎓 **President's Honor List** — Graduate Certificate, Seneca College of Applied Arts and Technology, Toronto, Canada
+- 🎓 **President's Honor List** — Post Graduate Certificate, Seneca College of Applied Arts and Technology, Toronto, Canada
 - 🥇 **Gold Medalist** — B.E. Computer Engineering, Veer Narmad South Gujarat University, Gujarat, India
 
 ---
