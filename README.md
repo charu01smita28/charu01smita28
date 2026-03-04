@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, This is Charusmita Dhiman! </h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Senior+AI+Engineer+%7C+LLM+Systems+Architect;Production+AI+that+reasons%2C+not+just+generates;Multi-agent+pipelines+%7C+Retrieval+systems+%7C+Eval+frameworks" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Senior+AI+Engineer+%7C+LLM+Systems+Architect;Production+AI+that+reasons%2C+not+just+generates;Multi-agent+pipelines+%7C+Retrieval+systems+%7C+Eval+frameworks" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" alt="ai engineer" width="400" src="https://cdn.dribbble.com/users/3250190/screenshots/6078167/media/0a70c8010d8e930d5bc0c498d14dc680.gif">
@@ -185,7 +185,7 @@
 <img src="https://img.shields.io/badge/Function_Calling-4ECDC4?style=flat-square" />
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <br/><br/>
-▶️ [Watch Demo](https://youtube.com) <!-- Replace with actual YouTube link -->
+▶️ [Watch Demo](https://youtu.be/lBGSVeEvoiw)
 
 </td>
 <td width="50%">
