@@ -228,73 +228,20 @@ I'm deep in the **agentic AI** wave right now:
 
 ---
 
-<h3 align="left">Tech Stack:</h3>
+## 🛠️ Tech Stack
 
-**🤖 LLM & AI**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![DSPy](https://img.shields.io/badge/DSPy-6C63FF?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0A6DC2?style=for-the-badge)
-![Qwen](https://img.shields.io/badge/Qwen-7C3AED?style=for-the-badge)
-![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge)
-
-**🔍 Retrieval & Eval**
-
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![RAGAS](https://img.shields.io/badge/RAGAS-FF6B6B?style=for-the-badge)
-![BM25](https://img.shields.io/badge/BM25-4ECDC4?style=for-the-badge)
-![Cross Encoder](https://img.shields.io/badge/Cross_Encoder-A78BFA?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
-![LanceDB](https://img.shields.io/badge/LanceDB-FFA500?style=for-the-badge)
-![Arize](https://img.shields.io/badge/Arize-FF6B35?style=for-the-badge)
-![Langfuse](https://img.shields.io/badge/Langfuse-4ECDC4?style=for-the-badge)
-
-**⚙️ Backend & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-**☁️ Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white)
-
-**🎨 Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**🔧 Dev Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<table>
+<tr><td><b>🤖 LLMs & Embeddings</b></td><td>OpenAI GPT-4o/4o-mini/5.2 · Claude (Haiku/Sonnet/Opus) · Mistral · DeepSeek · Qwen · Llama · BGE/BGE-M3 · text-embedding-3-large · CLIP · Sentence-BERT · FastEmbed</td></tr>
+<tr><td><b>🧠 LLM Orchestration</b></td><td>DSPy · LangChain · LlamaIndex · LangGraph · Self-RAG · Adaptive-RAG · Hierarchical-RAG · tool-augmented agent workflows · structured outputs (JSON Schema, Pydantic)</td></tr>
+<tr><td><b>🔍 Retrieval & Search</b></td><td>Elasticsearch (BM25 + custom ranking) · Qdrant · FAISS · ChromaDB · Pinecone · LanceDB · dense+sparse hybrid retrieval · cross-encoder reranking · section-aware chunking</td></tr>
+<tr><td><b>📊 Eval & Observability</b></td><td>RAGAS · LLM-as-judge · Arize · Arize Phoenix · Langfuse · LangSmith · Recall@K · nDCG · DataDog · New Relic · Grafana · ELK</td></tr>
+<tr><td><b>⚙️ Languages & Frameworks</b></td><td>Python · TypeScript · Java · FastAPI · Flask · Spring Boot · Node.js · REST APIs · GraphQL</td></tr>
+<tr><td><b>🗄️ Databases</b></td><td>PostgreSQL · Supabase · DuckDB · Redis · MySQL · Oracle · DynamoDB · MongoDB · SQLite · Neo4j</td></tr>
+<tr><td><b>☁️ Cloud & DevOps</b></td><td>AWS (Lambda, S3, SQS/SNS, SageMaker, EC2, EMR, ECS, Aurora) · Azure Cosmos · GCP BigQuery · Docker · Kubernetes · Terraform · Prefect · Vercel · Jenkins · MLFlow · BentoML · CI/CD</td></tr>
+<tr><td><b>🧪 ML Libraries</b></td><td>PyTorch · TensorFlow · Keras · HuggingFace Transformers · Scikit-learn · SpaCy · Pandas · NumPy</td></tr>
+<tr><td><b>🎨 Frontend</b></td><td>Next.js · React · TypeScript · Tailwind · shadcn/ui · Angular</td></tr>
+<tr><td><b>🔧 Dev Tools</b></td><td>Claude Code · MCP Servers · Git · Postman · Linux</td></tr>
+</table>
 
 ---
 
