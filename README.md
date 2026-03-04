@@ -163,21 +163,24 @@
 
 ---
 
-## 🚀 Side Projects
+## 🚀 What I'm building
 
 <table>
 <tr>
 <td width="50%">
 
 **🔍 RepoScout — AI-Powered Open Source Intelligence Engine**
-<br/><sub>Agentic RAG system querying 85K+ Python packages using 5 Mistral AI models with function calling, semantic search (Qdrant), and real-time PyPI data. Built solo for <b>Mistral Worldwide Hackathon 2026</b>.</sub>
+<br/><sub>5-stage agentic RAG pipeline across 85K+ Python packages · 5 Mistral AI models (Large, Ministral 8B, Devstral, Embed, Moderation) · autonomous function calling · 80K+ semantic embeddings on Qdrant Cloud · DuckDB over 2.1M+ dependency signals · SSE streaming · built solo for <b>Mistral Worldwide Hackathon 2026</b>.</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
-<img src="https://img.shields.io/badge/Function_Calling-4ECDC4?style=flat-square" />
+<img src="https://img.shields.io/badge/Mistral_Large-FF7000?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic_RAG-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Qdrant_Cloud-DC244C?style=flat-square" />
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/SSE_Streaming-4ECDC4?style=flat-square" />
 <br/><br/>
-▶️ [Watch Demo](https://youtu.be/lBGSVeEvoiw)
+🔗 [View Project](https://github.com/charu01smita28/reposcout)
 
 </td>
 <td width="50%">
@@ -241,6 +244,6 @@ I'm deep in the **agentic AI** wave right now:
 
 <div align="center">
 
-<b>Passionate about building multi-agent LLM systems that retrieve with precision, evaluate themselves, fail gracefully, and don't bankrupt the company on API calls.</b>
+<b>Building AI systems that work in production, not just in notebooks.</b>
 
 </div>
