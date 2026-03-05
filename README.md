@@ -8,7 +8,7 @@
 
 <img align="right" alt="ai engineer" width="400" src="https://cdn.dribbble.com/users/3250190/screenshots/6078167/media/0a70c8010d8e930d5bc0c498d14dc680.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charu21&label=Profile%20views&color=0e75b6&style=flat" alt="charu21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charu01smita28&label=Profile%20views&color=0e75b6&style=flat&base=1550" alt="charu01smita28" /> </p>
 
 <h3 align="justify">8+ years of software engineering — 5 years building backends and full-stack systems in Python, Java, Node.js, then a hard pivot into AI/ML. Once I saw the power of LLMs and AI, I was simply obsessed — no looking back. Now 3 years deep in production LLM systems — I build multi-agent pipelines that retrieve with precision, evaluate themselves, fail gracefully, and don't bankrupt the company on API calls. If a system can't show you why it gave that answer, it shouldn't be in production.</h3>
 <ul>
