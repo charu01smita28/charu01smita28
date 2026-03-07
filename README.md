@@ -14,26 +14,31 @@
 <ul>
 
 <li align="justify">
-🧠 <b>LLM Systems & Reasoning</b>: Designed and shipped advanced RAG architectures (Self-RAG, Hierarchical RAG, Adaptive RAG), multi-agent LLM pipelines, and retrieval-driven multi-stage reasoning systems with explicit correctness and evaluation layers.
+🧠 <b>LLM Systems & Reasoning</b>: Designed and shipped advanced RAG architectures (Self-RAG, Hierarchical RAG, Adaptive RAG), multi-agent LLM pipelines with 10+ orchestrated modules, parallel execution, SSE streaming, and dual-provider failover — achieving 60% latency reduction and 30% fewer LLM calls.
 <br/><br/>
 <img src="https://img.shields.io/badge/Self--RAG-6C63FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Adaptive_RAG-A78BFA?style=flat-square" />
 <img src="https://img.shields.io/badge/Multi--Agent_Pipelines-4ECDC4?style=flat-square" />
 <img src="https://img.shields.io/badge/GPT_Models-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=flat-square" />
 <img src="https://img.shields.io/badge/DSPy-FF6B6B?style=flat-square" />
 </li><br/>
 
 <li align="justify">
-📊 <b>Evaluation & User-Adaptive AI</b>: Built automated RAG evaluation and benchmarking pipelines (RAGAS, LLM-as-judge, embedding similarity) and led large-scale power-user query analysis (40K+ queries) to drive complexity-aware routing, persona-specific response depth, and product strategy.
+📊 <b>Evaluation & User-Adaptive AI</b>: Built automated RAG evaluation and benchmarking pipelines (RAGAS, LLM-as-judge, embedding similarity) with faithfulness-preserving optimization — 6.3% context recall gain with 0% faithfulness loss. Led large-scale power-user query analysis (40K+ queries) to drive complexity-aware routing, persona-specific response depth, and product strategy.
 <br/><br/>
 <img src="https://img.shields.io/badge/RAGAS-FF6B6B?style=flat-square" />
 <img src="https://img.shields.io/badge/LLM--as--Judge-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Langfuse-4ECDC4?style=flat-square" />
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square" />
 <img src="https://img.shields.io/badge/40K+_Queries_Analyzed-00C853?style=flat-square" />
 </li><br/>
 
 <li align="justify">
-📄 <b>Document Intelligence & Multimodal QA</b>: Developed end-to-end multimodal document intelligence systems orchestrating layout analysis, figure extraction, table parsing, and vision models — with tiered query routing, adaptive retrieval, and session-aware APIs.
+📄 <b>Document Intelligence & Multimodal QA</b>: Developed end-to-end multimodal document intelligence systems orchestrating layout analysis, figure extraction, table parsing, and vision models — with tiered query routing, adaptive retrieval, and session-aware APIs. Improved retrieval precision by 15%.
 <br/><br/>
 <img src="https://img.shields.io/badge/GROBID-4ECDC4?style=flat-square" />
 <img src="https://img.shields.io/badge/DocLayout--YOLO-FFD93D?style=flat-square&logoColor=black" />
@@ -50,6 +55,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" />
 </li><br/>
@@ -60,6 +67,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
 </li><br/>
 
@@ -69,11 +77,16 @@
 <img src="https://img.shields.io/badge/BM25-4ECDC4?style=flat-square" />
 <img src="https://img.shields.io/badge/Dense_Retrieval-6C63FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Cross--Encoder_Reranking-A78BFA?style=flat-square" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+<img src="https://img.shields.io/badge/FAISS-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/ChromaDB-4ECDC4?style=flat-square" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </li><br/>
 
 <li align="justify">
-🤖 <b>Product-Driven AI</b>: Built agentic AI features including tool-use flows, function calling, structured prompts, MCP servers, feedback capture, and iterative improvement based on real user behavior.
+🤖 <b>Product-Driven AI</b>: Built agentic AI features including tool-use flows, function calling, structured prompts, custom MCP servers (K8s tunneling, SQL safety, resource lifecycle management), feedback capture, and iterative improvement based on real user behavior.
 <br/><br/>
 <img src="https://img.shields.io/badge/Tool--Use-6C63FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Function_Calling-4ECDC4?style=flat-square" />
@@ -82,7 +95,7 @@
 </li><br/>
 
 <li align="justify">
-💸 <b>LLM Cost Engineering</b>: Designed hybrid classification pipelines, semantic caching, tiered model routing, and confidence-based LLM selection — achieved up to 10x cost reduction on production workloads.
+💸 <b>LLM Cost Engineering</b>: Designed hybrid classification pipelines, semantic caching, tiered model routing, and confidence-based LLM selection — achieved 10x cost reduction ($90 → $9/month) on production workloads.
 <br/><br/>
 <img src="https://img.shields.io/badge/Semantic_Caching-00C9A7?style=flat-square" />
 <img src="https://img.shields.io/badge/Tiered_Routing-FFD93D?style=flat-square&logoColor=black" />
@@ -95,13 +108,17 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square" />
 </li><br/>
 
 <li align="justify">
-🚧 <b>Currently building</b>: <b>Unravel AI</b> — Agentic retrieval, eval-driven intelligence, hybrid search, multi-stage reasoning. Stay tuned.
+🧪 <b>ML & Deep Learning</b>: Hands-on experience with <b>PyTorch, TensorFlow, HuggingFace Transformers</b>, and <b>Scikit-learn</b> for model fine-tuning, embeddings, and classical ML pipelines.
 <br/><br/>
-<img src="https://img.shields.io/badge/Coming_Soon-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 </li><br/>
 
 <li align="justify">
@@ -112,58 +129,7 @@
 
 ---
 
-## 🔥 What I shipped
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**🧠 Multi-Agent Pipelines**
-<br/><sub>10+ LLM modules · parallel execution · SSE streaming · dual-provider failover · Self-RAG</sub>
-<br/><sub><code>↳ 60% latency reduction · 30% fewer LLM calls</code></sub>
-
-</td>
-<td align="center" width="33%">
-
-**📄 Multimodal Doc Intel**
-<br/><sub>Layout analysis · vision models · tiered query routing · session-aware APIs · adaptive retrieval</sub>
-<br/><sub><code>↳ 15% retrieval precision improvement</code></sub>
-
-</td>
-<td align="center" width="33%">
-
-**📊 RAG Eval Engines**
-<br/><sub>RAGAS · LLM-as-judge · embedding similarity · chunking diagnostics · faithfulness-preserving optimization</sub>
-<br/><sub><code>↳ 6.3% context recall gain, 0% faithfulness loss</code></sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-**💸 Cost Optimization**
-<br/><sub>Hybrid DeBERTa + LLM · semantic caching · tiered routing · 275 intent labels</sub>
-<br/><sub><code>↳ 10x cost reduction ($90 → $9/month)</code></sub>
-
-</td>
-<td align="center" width="33%">
-
-**🔬 User Intelligence**
-<br/><sub>40K+ queries · persona analysis · complexity-aware routing · product-driving insights</sub>
-
-</td>
-<td align="center" width="33%">
-
-**🔧 Production Tooling**
-<br/><sub>Custom MCP servers · K8s tunneling · SQL safety · resource lifecycle management</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 What I'm building
+## 🚀 What I'm building next
 
 <table>
 <tr>
@@ -196,16 +162,6 @@
 
 ---
 
-## 🏆 Accolades
-
-*Less about titles, more about the dedicated effort it took to earn them.*
-
-- 🎯 **Google Certified TensorFlow Developer** — scored 100%
-- 🎓 **President's Honor List** — Post Graduate Certificate, Seneca College of Applied Arts and Technology, Toronto, Canada
-- 🥇 **Gold Medalist** — B.E. Computer Engineering, Veer Narmad South Gujarat University, Gujarat, India
-
----
-
 ## 🧭 Where my head is at
 
 I'm deep in the **agentic AI** wave right now:
@@ -218,27 +174,20 @@ I'm deep in the **agentic AI** wave right now:
 
 ---
 
+## 🏆 Accolades
+
+*Less about titles, more about the dedicated effort it took to earn them.*
+
+- 🎯 **Google Certified TensorFlow Developer** — scored 100%
+- 🎓 **President's Honor List** — Post Graduate Certificate, Seneca College of Applied Arts and Technology, Toronto, Canada
+- 🥇 **Gold Medalist** — B.E. Computer Engineering, Veer Narmad South Gujarat University, Gujarat, India
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/charusmitadhiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charusmitadhiman" height="30" width="40" /></a>
 </p>
-
----
-
-## 🛠️ Tech Stack
-
-<table>
-<tr><td><b>🤖 LLMs & Embeddings</b></td><td>OpenAI GPT-4o/4o-mini/5.2 · Claude (Haiku/Sonnet/Opus) · Mistral · DeepSeek · Qwen · Llama · BGE/BGE-M3 · text-embedding-3-large · CLIP · Sentence-BERT · FastEmbed</td></tr>
-<tr><td><b>🧠 LLM Orchestration</b></td><td>DSPy · LangChain · LlamaIndex · LangGraph · Self-RAG · Adaptive-RAG · Hierarchical-RAG · tool-augmented agent workflows · structured outputs (JSON Schema, Pydantic)</td></tr>
-<tr><td><b>🔍 Retrieval & Search</b></td><td>Elasticsearch (BM25 + custom ranking) · Qdrant · FAISS · ChromaDB · Pinecone · LanceDB · dense+sparse hybrid retrieval · cross-encoder reranking · section-aware chunking</td></tr>
-<tr><td><b>📊 Eval & Observability</b></td><td>RAGAS · LLM-as-judge · Arize · Arize Phoenix · Langfuse · LangSmith · Recall@K · nDCG · DataDog · New Relic · Grafana · ELK</td></tr>
-<tr><td><b>⚙️ Languages & Frameworks</b></td><td>Python · TypeScript · Java · FastAPI · Flask · Spring Boot · Node.js · REST APIs · GraphQL</td></tr>
-<tr><td><b>🗄️ Databases</b></td><td>PostgreSQL · Supabase · DuckDB · Redis · MySQL · Oracle · DynamoDB · MongoDB · SQLite · Neo4j</td></tr>
-<tr><td><b>☁️ Cloud & DevOps</b></td><td>AWS (Lambda, S3, SQS/SNS, SageMaker, EC2, EMR, ECS, Aurora) · Azure Cosmos · GCP BigQuery · Docker · Kubernetes · Terraform · Prefect · Vercel · Jenkins · MLFlow · BentoML · CI/CD</td></tr>
-<tr><td><b>🧪 ML Libraries</b></td><td>PyTorch · TensorFlow · Keras · HuggingFace Transformers · Scikit-learn · SpaCy · Pandas · NumPy</td></tr>
-<tr><td><b>🎨 Frontend</b></td><td>Next.js · React · TypeScript · Tailwind · shadcn/ui · Angular</td></tr>
-<tr><td><b>🔧 Dev Tools</b></td><td>Claude Code · MCP Servers · Git · Postman · Linux</td></tr>
-</table>
 
 ---
 
