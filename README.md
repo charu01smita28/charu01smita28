@@ -90,7 +90,7 @@
 </li><br/>
 
 <li align="justify">
-🎨 <b>Frontend & Full-Stack</b>: Built production frontends using <b>React, Next.js, TypeScript</b>, and <b>shadcn/ui</b> — including a complete hackathon project (RepoScout) built end-to-end.
+🎨 <b>Frontend & Full-Stack</b>: Built production frontends using <b>React, Next.js, TypeScript</b>, and <b>shadcn/ui</b> — including a full-stack AI application (RepoScout) built end-to-end.
 <br/><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -170,7 +170,7 @@
 <td width="50%">
 
 **🔍 RepoScout — AI-Powered Open Source Intelligence Engine**
-<br/><sub>5-stage agentic RAG pipeline across 85K+ Python packages · 5 Mistral AI models (Large, Ministral 8B, Devstral, Embed, Moderation) · autonomous function calling · 80K+ semantic embeddings on Qdrant Cloud · DuckDB over 2.1M+ dependency signals · SSE streaming · built solo for <b>Mistral Worldwide Hackathon 2026</b>.</sub>
+<br/><sub>5-stage agentic RAG pipeline across 85K+ Python packages · Mistral Large · Ministral 8B · Devstral · Mistral Embed · Mistral Moderation — each selected for a specific pipeline stage · autonomous function calling · 80K+ semantic embeddings on Qdrant Cloud · DuckDB over 2.1M+ dependency signals · SSE streaming.</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Mistral_Large-FF7000?style=flat-square" />
 <img src="https://img.shields.io/badge/Agentic_RAG-6C63FF?style=flat-square" />
