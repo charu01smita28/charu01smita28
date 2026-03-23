@@ -10,9 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charu01smita28&label=Profile%20views&color=0e75b6&style=flat&base=1550" alt="charu01smita28" /> </p>
 
-## Senior AI Engineer - Production LLM Systems & Multi-Agent Pipelines
-
-8+ years of software engineering. 5 years of backends and distributed systems gave me the foundation --> then production LLM systems gave me the problem worth solving! Now 3 years deep in production LLM systems.
+<p align="justify"><b>8+ years of software engineering.</b> 5 years of backends and distributed systems gave me the foundation, then <b>production LLM systems</b> gave me the problem worth solving. Now <b>3 years deep</b> in production LLM systems. <i>My production standard: if an AI system can't cite why it gave that answer, it doesn't belong in production! </i></p>
 
 - **13K+ users** on SciWeave — multi-agent RAG across **250M+ papers**, handling **10K+ monthly queries** with cited answers in **<6 seconds**
 - **10x cost reduction** ($90 → $9/month) via hybrid DeBERTa + LLM classification across **275 intent labels**, semantic caching & tiered routing
