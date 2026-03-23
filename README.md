@@ -10,177 +10,166 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charu01smita28&label=Profile%20views&color=0e75b6&style=flat&base=1550" alt="charu01smita28" /> </p>
 
-<h3 align="justify">8+ years of software engineering — 5 years building backends and full-stack systems in Python, Java, Node.js, then a hard pivot into AI/ML. Once I saw the power of LLMs and AI, I was simply obsessed — no looking back. Now 3 years deep in production LLM systems — I build multi-agent pipelines that retrieve with precision, evaluate themselves, fail gracefully, and don't bankrupt the company on API calls. If a system can't show you why it gave that answer, it shouldn't be in production.</h3>
-<ul>
+## Senior AI Engineer - Production LLM Systems & Multi-Agent Pipelines
 
-<li align="justify">
-🧠 <b>LLM Systems & Reasoning</b>: Designed and shipped advanced RAG architectures (Self-RAG, Hierarchical RAG, Adaptive RAG), multi-agent LLM pipelines with 10+ orchestrated modules, parallel execution, SSE streaming, and dual-provider failover — achieving 60% latency reduction and 30% fewer LLM calls.
-<br/><br/>
+8+ years of software engineering. 5 years of backends and distributed systems gave me the foundation --> then production LLM systems gave me the problem worth solving! Now 3 years deep in production LLM systems.
+
+- **13K+ users** on SciWeave — multi-agent RAG across **250M+ papers**, handling **10K+ monthly queries** with cited answers in **<6 seconds**
+- **10x cost reduction** ($90 → $9/month) via hybrid DeBERTa + LLM classification across **275 intent labels**, semantic caching & tiered routing
+- **60% latency reduction** on multi-agent pipelines with parallel execution, 5-layer caching & dual-provider failover
+
+🔗 [SciWeave](https://sciweave.com) · 🔍 [RepoScout](https://github.com/charu01smita28/reposcout) · 📫 **charusmitadhiman28@gmail.com** · [LinkedIn](https://www.linkedin.com/in/charusmitadhiman/)
+
+---
+
+## 🚀 What I'm building
+
+**🔍 RepoScout — AI-Powered Open Source Intelligence Engine**
+
+5-stage agentic pipeline across **85K+ Python packages** · **hybrid Mistral + OpenAI model** selection optimized per stage · **autonomous tool-calling** with up to 8 reasoning iterations · 85K+ semantic **embeddings on Qdrant Cloud** · Supabase over 2.1M+ dependency signals · **SSE streaming** with conversation **follow-ups**.
+
+<img src="https://img.shields.io/badge/Agentic_RAG-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+
+🔗 [View Project](https://github.com/charu01smita28/reposcout)
+
+---
+
+## 🧠 LLM Systems & Reasoning
+
+- Built advanced RAG architectures (Self-RAG, Hierarchical, Adaptive) with **13+ DSPy-powered modules** across a 4-phase parallel pipeline
+- Multi-agent orchestration with SSE streaming, dual-provider failover & citation-grounded answering — **60% latency reduction, 30% fewer LLM calls**
+- NL-to-SQL pipelines connecting LLM reasoning to structured databases with hallucination guardrails
+
 <img src="https://img.shields.io/badge/Self--RAG-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Adaptive_RAG-A78BFA?style=flat-square" />
+<img src="https://img.shields.io/badge/DSPy-FF6B6B?style=flat-square" />
 <img src="https://img.shields.io/badge/Multi--Agent_Pipelines-4ECDC4?style=flat-square" />
-<img src="https://img.shields.io/badge/GPT_Models-412991?style=flat-square" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
 <img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/DSPy-FF6B6B?style=flat-square" />
-</li><br/>
+<img src="https://img.shields.io/badge/NL--to--SQL-A78BFA?style=flat-square" />
 
-<li align="justify">
-📊 <b>Evaluation & User-Adaptive AI</b>: Built automated RAG evaluation and benchmarking pipelines (RAGAS, LLM-as-judge, embedding similarity) with faithfulness-preserving optimization — 6.3% context recall gain with 0% faithfulness loss. Led large-scale power-user query analysis (40K+ queries) to drive complexity-aware routing, persona-specific response depth, and product strategy.
-<br/><br/>
+## 🗄️ Vector Search & Embedding Systems
+
+- Hybrid retrieval pipelines: BM25 + dense embeddings (Sentence-BERT, BGE, FastEmbed) + cross-encoder reranking
+- Built on Qdrant, FAISS, Chroma, Pinecone, LanceDB for vector search; Elasticsearch for lexical; Supabase, PostgreSQL & DuckDB for analytics
+
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+<img src="https://img.shields.io/badge/FAISS-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/ChromaDB-4ECDC4?style=flat-square" />
+<img src="https://img.shields.io/badge/Pinecone-000?style=flat-square" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/Sentence--BERT-6C63FF?style=flat-square" />
+
+## 📄 Document Intelligence & Multimodal QA
+
+- End-to-end multimodal document systems: layout analysis, figure extraction, table parsing, vision models (GPT-4o, CLIP, ViT)
+- 4-tier query routing balancing quality vs cost, with adaptive retrieval and progressive background processing — **15% retrieval precision improvement**
+
+<img src="https://img.shields.io/badge/GROBID-4ECDC4?style=flat-square" />
+<img src="https://img.shields.io/badge/DocLayout--YOLO-FFD93D?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/GPT--4o_Vision-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/CLIP-A78BFA?style=flat-square" />
+<img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square" />
+
+## 💸 LLM Cost Engineering
+
+- Hybrid DeBERTa + LLM classification pipeline for **275 fine-grained intent labels** — fine-tuned DeBERTa for parent classification (83% accuracy at 95% confidence), cheap LLM for child labels
+- 5-layer caching, semantic caching (Qdrant), selective query summarization, translate-first pipeline for non-English queries
+- **10x cost reduction** ($90 → $9/month) on production workloads
+
+<img src="https://img.shields.io/badge/DeBERTa-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/Semantic_Caching-00C9A7?style=flat-square" />
+<img src="https://img.shields.io/badge/Tiered_Routing-FFD93D?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/10x_Cost_Reduction-00C853?style=flat-square" />
+
+## 📊 Evaluation & Observability
+
+- Automated RAG evaluation benchmarked against QASA (1,375 questions, 102 papers) using RAGAS, LLM-as-judge & embedding similarity — **6.3% context recall gain, 0% faithfulness loss**
+- Analyzed **40K+ power-user queries** across personas (scientists, clinicians, educators) to drive complexity-aware routing and persona-specific response depth
+
 <img src="https://img.shields.io/badge/RAGAS-FF6B6B?style=flat-square" />
 <img src="https://img.shields.io/badge/LLM--as--Judge-6C63FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Langfuse-4ECDC4?style=flat-square" />
 <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square" />
-<img src="https://img.shields.io/badge/40K+_Queries_Analyzed-00C853?style=flat-square" />
-</li><br/>
+<img src="https://img.shields.io/badge/Arize_Phoenix-FF6B6B?style=flat-square" />
 
-<li align="justify">
-📄 <b>Document Intelligence & Multimodal QA</b>: Developed end-to-end multimodal document intelligence systems orchestrating layout analysis, figure extraction, table parsing, and vision models — with tiered query routing, adaptive retrieval, and session-aware APIs. Improved retrieval precision by 15%.
-<br/><br/>
-<img src="https://img.shields.io/badge/GROBID-4ECDC4?style=flat-square" />
-<img src="https://img.shields.io/badge/DocLayout--YOLO-FFD93D?style=flat-square&logoColor=black" />
-<img src="https://img.shields.io/badge/GPT--4o_Vision-412991?style=flat-square" />
-<img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square" />
-<img src="https://img.shields.io/badge/Qwen-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/DeepSeek-0A6DC2?style=flat-square" />
-<img src="https://img.shields.io/badge/Hybrid_Classifier-A78BFA?style=flat-square" />
-</li><br/>
+## 🤖 Product-Driven AI
 
-<li align="justify">
-⚙️ <b>Backend & Distributed Systems</b>: 8+ years of building scalable backend systems across monoliths and microservices using <b>Python, Java, Node.js</b>, designed reliable APIs (REST & GraphQL), async pipelines, and distributed workflows.
-<br/><br/>
+- Agentic AI features: tool-use flows, function calling, structured outputs (JSON Schema, Pydantic), custom MCP servers
+- MCP servers for K8s tunneling, SQL safety with injection protection, resource lifecycle management
+- Citation-grounded answering with hallucination guardrails for production accuracy
+
+<img src="https://img.shields.io/badge/Function_Calling-4ECDC4?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP_Servers-1DB954?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic_AI-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/Structured_Outputs-6C63FF?style=flat-square" />
+
+## ⚙️ Backend & Distributed Systems
+
+- 8+ years building scalable backends across monoliths and microservices
+- APIs (REST & GraphQL), async pipelines, distributed workflows
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" />
-</li><br/>
 
-<li align="justify">
-☁️ <b>Cloud-Native Infrastructure</b>: Deployed and operated LLM services using <b>AWS (Lambda, S3, DynamoDB, Aurora, SQS)</b>, <b>Docker</b>, <b>Kubernetes</b>, and <b>Vercel</b>, with a focus on latency, reliability, observability, and maintainability.
-<br/><br/>
+## ☁️ Cloud & MLOps
+
+- AWS (Lambda, S3, SQS, DynamoDB, Aurora, SageMaker, Bedrock), Docker, Kubernetes, Vercel
+- MLFlow for experiment tracking; Terraform for infrastructure-as-code
+
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square" />
+<img src="https://img.shields.io/badge/Bedrock-232F3E?style=flat-square" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/MLFlow-0194E2?style=flat-square" />
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
-</li><br/>
 
-<li align="justify">
-🗄️ <b>Data & Search Systems</b>: Engineered hybrid search systems (BM25 + dense retrieval + cross-encoder reranking) using <b>Elasticsearch</b> and vector databases (<b>Qdrant, FAISS, Chroma</b>), backed by <b>PostgreSQL, DuckDB, Supabase</b>-based analytics pipelines.
-<br/><br/>
-<img src="https://img.shields.io/badge/BM25-4ECDC4?style=flat-square" />
-<img src="https://img.shields.io/badge/Dense_Retrieval-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Cross--Encoder_Reranking-A78BFA?style=flat-square" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
-<img src="https://img.shields.io/badge/FAISS-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/ChromaDB-4ECDC4?style=flat-square" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</li><br/>
+## 🎨 Frontend & Full-Stack
 
-<li align="justify">
-🤖 <b>Product-Driven AI</b>: Built agentic AI features including tool-use flows, function calling, structured prompts, custom MCP servers (K8s tunneling, SQL safety, resource lifecycle management), feedback capture, and iterative improvement based on real user behavior.
-<br/><br/>
-<img src="https://img.shields.io/badge/Tool--Use-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Function_Calling-4ECDC4?style=flat-square" />
-<img src="https://img.shields.io/badge/MCP_Servers-1DB954?style=flat-square" />
-<img src="https://img.shields.io/badge/Agentic_AI-FF6B6B?style=flat-square" />
-</li><br/>
+- Production frontends with React, Next.js, TypeScript, shadcn/ui
+- Full-stack AI application (RepoScout) built end-to-end
 
-<li align="justify">
-💸 <b>LLM Cost Engineering</b>: Designed hybrid classification pipelines, semantic caching, tiered model routing, and confidence-based LLM selection — achieved 10x cost reduction ($90 → $9/month) on production workloads.
-<br/><br/>
-<img src="https://img.shields.io/badge/Semantic_Caching-00C9A7?style=flat-square" />
-<img src="https://img.shields.io/badge/Tiered_Routing-FFD93D?style=flat-square&logoColor=black" />
-<img src="https://img.shields.io/badge/10x_Cost_Reduction-00C853?style=flat-square" />
-</li><br/>
-
-<li align="justify">
-🎨 <b>Frontend & Full-Stack</b>: Built production frontends using <b>React, Next.js, TypeScript</b>, and <b>shadcn/ui</b> — including a full-stack AI application (RepoScout) built end-to-end.
-<br/><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square" />
-</li><br/>
 
-<li align="justify">
-🧪 <b>ML & Deep Learning</b>: Hands-on experience with <b>PyTorch, TensorFlow, HuggingFace Transformers</b>, and <b>Scikit-learn</b> for model fine-tuning, embeddings, and classical ML pipelines.
-<br/><br/>
+## 🧪 ML & Deep Learning
+
+- PyTorch, TensorFlow, HuggingFace Transformers, Scikit-learn, SpaCy
+- Model fine-tuning, embeddings (BGE, Sentence-BERT, CLIP, FastEmbed), classical ML pipelines
+
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-</li><br/>
-
-<li align="justify">
-📫 <b>Reach me</b>: <b>charusmitadhiman28@gmail.com</b> · <a href="https://www.linkedin.com/in/charusmitadhiman/">LinkedIn</a>
-</li><br/>
-
-</ul>
-
----
-
-## 🚀 What I'm building next
-
-<table>
-<tr>
-<td width="50%">
-
-**🔍 RepoScout — AI-Powered Open Source Intelligence Engine**
-<br/><sub>5-stage agentic RAG pipeline across 85K+ Python packages · Mistral Large · Ministral 8B · Devstral · Mistral Embed · Mistral Moderation — each selected for a specific pipeline stage · autonomous function calling · 80K+ semantic embeddings on Qdrant Cloud · DuckDB over 2.1M+ dependency signals · SSE streaming.</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Mistral_Large-FF7000?style=flat-square" />
-<img src="https://img.shields.io/badge/Agentic_RAG-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Qdrant_Cloud-DC244C?style=flat-square" />
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logoColor=black" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/SSE_Streaming-4ECDC4?style=flat-square" />
-<br/><br/>
-🔗 [View Project](https://github.com/charu01smita28/reposcout)
-
-</td>
-<td width="50%">
-
-**🧠 Unravel AI — Developer Intelligence Platform**
-<br/><sub>Agentic retrieval · eval-driven intelligence · hybrid search · multi-stage reasoning. <b>Coming soon.</b></sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Coming_Soon-6C63FF?style=flat-square" />
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
 
 ---
 
 ## 🧭 Where my head is at
 
-I'm deep in the **agentic AI** wave right now:
-
 - 🤖 **Multi-agent systems** — orchestration patterns, handoff protocols, memory architectures
 - 🔧 **Tool-use & function calling** — making agents actually do things reliably
 - 🕸️ **Graph RAG & knowledge graphs** — structured reasoning over unstructured data
 - 🧩 **Claude Agent SDK & MCP** — building with the next generation of agent infrastructure
-- 🧠 **Reasoning-heavy architectures** — systems that think, not just pattern-match
 
 ---
 
 ## 🏆 Accolades
 
-*Less about titles, more about the dedicated effort it took to earn them.*
-
 - 🎯 **Google Certified TensorFlow Developer** — scored 100%
-- 🎓 **President's Honor List** — Post Graduate Certificate, Seneca College of Applied Arts and Technology, Toronto, Canada
-- 🥇 **Gold Medalist** — B.E. Computer Engineering, Veer Narmad South Gujarat University, Gujarat, India
+- 🎓 **President's Honor List** — Post Graduate Certificate, Seneca College, Toronto
+- 🥇 **Gold Medalist** — B.E. Computer Engineering, VNSGU, India
 
 ---
 
