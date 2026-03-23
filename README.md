@@ -1,4 +1,4 @@
-![logo](https://github.com/Charu21/Charu21/blob/main/banner.jpeg)
+![logo](https://raw.githubusercontent.com/charu01smita28/charu01smita28/main/banner.jpeg)
 
 <h1 align="center">Hi 👋, This is Charusmita Dhiman! </h1>
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charu01smita28&label=Profile%20views&color=0e75b6&style=flat&base=1550" alt="charu01smita28" /> </p>
 
-<h3 align="justify">8+ years of software engineering. 5 years building backends and full-stack systems in Python, Java, Node.js, then a hard pivot into AI/ML. Once I saw the power of LLMs and AI, I was simply obsessed, no looking back. Now 3 years deep in production LLM systems. I build multi-agent pipelines that retrieve with precision, evaluate themselves, fail gracefully, and don't bankrupt the company on API calls. <i>If a system can't show you why it gave that answer, it shouldn't be in production.</i></h3>
+<p align="justify"><b>8+ years of software engineering.</b> 5 years building backends and full-stack systems in Python, Java, Node.js, then a hard pivot into AI/ML. Once I saw the power of LLMs and AI, I was simply obsessed, no looking back. Now <b>3 years deep in production LLM systems.</b> I build multi-agent pipelines that <b>retrieve with precision, evaluate themselves, fail gracefully</b>, and don't bankrupt the company on API calls. <i>If a system can't show you why it gave that answer, it shouldn't be in production.</i></p>
 
 - **13K+ users** on SciWeave — multi-agent RAG across **250M+ papers**, handling **10K+ monthly queries** with cited answers in **<6 seconds**
 - **10x cost reduction** ($90 → $9/month) via hybrid DeBERTa + LLM classification across **275 intent labels**, semantic caching & tiered routing
