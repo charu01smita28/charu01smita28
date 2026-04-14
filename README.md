@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charu01smita28&label=Profile%20views&color=0e75b6&style=flat&base=1550" alt="charu01smita28" /> </p>
 
-<h4 align="justify">8+ years of software engineering. 5 years building backends and full-stack systems in Python, Java, Node.js, then a hard pivot into AI/ML. Once I saw the power of LLMs and AI, I went all-in, no looking back.<br><br>Now 3 years deep in production LLM systems - I build multi-agent pipelines that retrieve with precision, evaluate themselves, fail gracefully, and don't bankrupt the company on API calls. <i>If a system can't show you why it gave that answer, it shouldn't be in production.</i></h4>
+<h4 align="justify">8+ years shipping software. 5 years deep in backends and full-stack (Python, Java, Node.js) — then LLMs hit, and I went all-in. No looking back.<br><br>3 years in, I design and ship <b>production multi-agent systems</b> — agentic RAG pipelines that retrieve with precision, reason across tools, evaluate themselves, fail gracefully, and don't bankrupt the company on API calls. <i>If a system can't show you why it gave that answer, it shouldn't be in production.</i></h4>
 
 - **13K+ users** on SciWeave — multi-agent RAG across **250M+ papers**, handling **10K+ monthly queries** with cited answers in **<6 seconds**
 - **10x cost reduction** ($90 → $9/month) via hybrid DeBERTa + LLM classification across **275 intent labels**, semantic caching & tiered routing
@@ -29,6 +29,12 @@
 <p><img src="https://img.shields.io/badge/Agentic_RAG-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square" /> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" /> <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" /></p>
 
 🔗 [View Project](https://github.com/charu01smita28/reposcout)
+
+**🧬 Clinical Evidence IQ — Multi-Agent Clinical Research & Safety Engine** *(under NDA)*
+
+LangGraph multi-agent workflow: `query_analyzer → researcher → critic → safety_checker → synthesizer` with conditional routing and retry loops · Qdrant-backed retrieval over **5K+ domain papers** · dual-model inference · inline citations + confidence scoring.
+
+<p><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" /> <img src="https://img.shields.io/badge/Multi--Agent-FF6B6B?style=flat-square" /> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" /> <img src="https://img.shields.io/badge/Conditional_Routing-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Safety_Guardrails-00C9A7?style=flat-square" /></p>
 
 ---
 
@@ -70,15 +76,11 @@
 
 - 8+ years across monoliths and microservices
 - REST, GraphQL, async pipelines, distributed workflows
-
-### ☁️ Cloud & MLOps
-
-- AWS (Lambda, S3, SQS, DynamoDB, SageMaker, Bedrock), Docker, Kubernetes
-- MLFlow, Terraform, Vercel
+- AWS (Lambda, S3, SQS, DynamoDB, SageMaker, Bedrock), Docker, Kubernetes, MLFlow
 
 ### 🎨 Frontend & Full-Stack
 
-- React, Next.js, TypeScript, shadcn/ui
+- React, Next.js, TypeScript, shadcn/ui, Vercel
 - Full-stack AI app (RepoScout) built end-to-end
 
 ---
@@ -96,8 +98,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square" /> <img src="https://img.shields.io/badge/Bedrock-232F3E?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/MLFlow-0194E2?style=flat-square" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/HuggingFace_Hub-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
 </p>
 
 ---
